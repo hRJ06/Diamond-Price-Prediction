@@ -1,5 +1,6 @@
 # DIAMOND PRICE PREDICTION
 
+
 This repository contains a diamond price prediction project for predicting the price of diamonds using the datasets input features : Carat, Depth, Table, x, y, z, Cut, Color and Clarity.
 
 <br>Data set Link  : https://www.kaggle.com/competitions/playground-series-s3e8/data?select=train.csv
@@ -29,7 +30,7 @@ The project is organized as follows:
 
 - `application.py`: This is the Flask application file responsible for hosting the web application.
 
-- `notebooks`: This directory contains Jupyter notebooks used for data exploration, visualization and model training . The `data` folder within this directory contains the dataset used for this project.
+- `Notebook`: This directory contains Jupyter notebooks used for data exploration, visualization and model training . The `data` folder within this directory contains the dataset used for this project.
 
 - `setup.py`: This is the setup file for the project, which may include additional configuration settings.
 
@@ -80,10 +81,8 @@ python application.py
 ```
 
 5. Open your web browser and go to
-
- ``http://127.0.0.1:5004/`` - to access the home page
    
-``http://127.0.0.1:5004/predict`` - to perform prediction of diamond price on the web application.
+``http://127.0.0.1:5004/predict`` - To perform prediction of diamond price on the web application.
 
 ## USAGE
 
@@ -93,9 +92,7 @@ Additionally, you can explore the Jupyter notebooks named `EDA` and `Model Train
 
 ## SAMPLE
 
-<img width="1440" alt="" src="https://asset.cloudinary.com/dvpulu3cc/9283a7dc9f82a4175edf41037fb5c8cf">
-
-
+<img width="1440" alt="" src="https://github.com/hRJ06/Diamond-Price-Prediction/assets/123245585/980eb3ae-e31b-4664-832f-d6f18a1cea5c">
 
 
 ## CONTRIBUTION
