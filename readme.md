@@ -93,7 +93,7 @@ Additionally, you can explore the Jupyter notebooks named `EDA` and `Model Train
 
 ## SAMPLE
 
-<img width="1440" alt="Screenshot 2023-10-16 at 8 32 10 PM (2)" src="C:\Users\KIIT\Pictures\Screenshots\Screenshot 2024-01-25 123945.png">
+<img width="1440" alt="" src="https://asset.cloudinary.com/dvpulu3cc/9283a7dc9f82a4175edf41037fb5c8cf">
 
 
 
